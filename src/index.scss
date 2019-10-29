@@ -1,0 +1,72 @@
+.centered {
+	text-align: center;
+}
+
+.lunatic-img-container {
+	text-align: center;
+	margin-left: 30%;
+	width: 40%;
+}
+
+.lunatic-img {
+	text-align: center;
+	margin-top: 0.4em;
+	margin-bottom: 1em;
+	position: relative;
+	max-width: 100%;
+}
+
+.container {
+	margin-left: 5%;
+	width: 100%;
+	display: flex;
+}
+
+.menu{
+	position: relative;
+	float: right;
+	padding-left: 15px;
+	padding-right: 15px;
+}
+
+.content{
+	width: 85%;
+}
+
+.footer {
+	margin-left: 5%;
+	text-align: center;
+	font-weight: bold;
+	position: absolute; 
+	width: 90%;
+}
+
+body {position: relative;}
+
+.components {
+	margin-left: 1%;
+	width: 80%;
+}
+
+.lunatic-component {
+	margin-bottom: 0.4em;
+}
+
+.container-component {
+	display: flex;
+}
+
+.w-5 {
+	width: 5%;
+	display: flex;
+	justify-content: center;
+	flex-direction: column;
+	text-align: center;
+	div {
+		text-align: left;
+	}
+}
+
+.w-95 {
+	width: 95%;
+}
